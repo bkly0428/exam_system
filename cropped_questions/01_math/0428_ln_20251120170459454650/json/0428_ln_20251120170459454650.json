@@ -1,0 +1,49 @@
+{
+  "filename": "0428_ln_20251120170459454650",
+  "objects": [
+    {
+      "id": 0,
+      "class": "dati",
+      "position": {
+        "x1": 13,
+        "y1": 221,
+        "x2": 206,
+        "y2": 296
+      },
+      "image_path": "dati\\0428_ln_20251120170459454650_dati_0.jpg"
+    },
+    {
+      "id": 1,
+      "class": "xuanzeti",
+      "position": {
+        "x1": 10,
+        "y1": 188,
+        "x2": 203,
+        "y2": 223
+      },
+      "image_path": "xuanzeti\\0428_ln_20251120170459454650_xuanzeti_1.jpg"
+    },
+    {
+      "id": 2,
+      "class": "xuanzeti",
+      "position": {
+        "x1": 13,
+        "y1": 98,
+        "x2": 203,
+        "y2": 222
+      },
+      "image_path": "xuanzeti\\0428_ln_20251120170459454650_xuanzeti_2.jpg"
+    },
+    {
+      "id": 3,
+      "class": "xuanzeti",
+      "position": {
+        "x1": 10,
+        "y1": 98,
+        "x2": 202,
+        "y2": 184
+      },
+      "image_path": "xuanzeti\\0428_ln_20251120170459454650_xuanzeti_3.jpg"
+    }
+  ]
+}
